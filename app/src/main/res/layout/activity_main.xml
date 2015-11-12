@@ -47,7 +47,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="0dp"
                     android:text=""
-                    android:id="@+id/button2"
+                    android:id="@+id/brown"
                     android:gravity="top"
                     android:background="@mipmap/ic_launcher"
                     android:layout_weight="1"
@@ -58,7 +58,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
                     android:text=""
-                    android:id="@+id/button4"
+                    android:id="@+id/blue"
                     android:gravity="fill_horizontal|bottom"
                     android:layout_weight="1"
                     android:background="@mipmap/ic_launcher"
@@ -75,8 +75,7 @@
                     style="?android:attr/buttonStyleSmall"
                     android:layout_width="fill_parent"
                     android:layout_height="0dp"
-                    android:text=""
-                    android:id="@+id/button3"
+                    android:id="@+id/pink"
                     android:background="@mipmap/ic_launcher"
                     android:layout_weight="1"
                     android:backgroundTint="#fab0ff" />
@@ -85,8 +84,7 @@
                     style="?android:attr/buttonStyleSmall"
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
-                    android:text=""
-                    android:id="@+id/button5"
+                    android:id="@+id/yellow"
                     android:layout_weight="1"
                     android:background="@mipmap/ic_launcher"
                     android:backgroundTint="#ffffffff" />
@@ -105,7 +103,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Start"
-                android:id="@+id/button6"
+                android:id="@+id/start"
                 android:layout_gravity="center"
                 android:background="#ffffff" />
         </LinearLayout>
